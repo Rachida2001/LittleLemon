@@ -20,4 +20,4 @@ class Booking(models.Model):
    
 
     def __str__(self):
-        return f"Booking for {self.No_of_guests} people on {self.BookingDate}" # Custom string representation
+        return f"Booking for {self.No_of_guests} people on {self.BookingDate}" 
