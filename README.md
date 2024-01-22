@@ -8,3 +8,4 @@ http://127.0.0.1:8000/admin/login/?next=/admin/
 the username is admin
 the password is admin
 the Bearer Token "1d83516d24c71a52a0eedbb50829691121308e19"
+![image](https://github.com/Rachida2001/LittleLemon/assets/123777131/81794355-f4eb-4a56-b1e1-c452ada63236)
